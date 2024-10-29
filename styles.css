@@ -1,0 +1,34 @@
+body {
+    background: rgb(177, 123, 228);
+    color: white;
+    font-family: "Nunito", sans-serif;
+    margin: 0px;
+    margin-bottom: 100px;
+}
+
+header {
+    border-bottom: solid 2px rgb(73, 230, 86);
+    padding: 20px;
+    font-size: 40px;
+    color: rgb(43, 243, 226);
+}
+
+.chamada {
+    background: rgb(184, 156, 213);
+    padding-bottom: 80px;
+    padding-top: 80px;
+    display: flex;
+    justify-content: center;
+}
+
+.chamada-texto {
+    margin-right: 5%;
+}
+
+h1 {
+    font-size: 40px;
+}
+
+p {
+    font-size: 20px;
+}
